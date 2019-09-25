@@ -1,5 +1,6 @@
 # Liderazgo_inteligencia-emocional
 Resumen del curso de Liderazgo con inteligencia emocional (Semana 1)
+
 Para tener un equipo de trabajo necesitamos que todas los integrantes sean capaces de
 colaborar en dicho ambiente para eso se necesita de la inteligencia emocial
 #¿Qué es la inteligencia emocional?
