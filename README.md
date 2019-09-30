@@ -14,6 +14,12 @@ sociables somos.
 *En otras palabras, el dicho “No es algo personal, son estrictamente negocios”, ya no funciona debido a que los estudios muestran 
 que la participación e innovación verdaderas son el resultado de una inversión personal en la tarea en cuestión.
 
+La inteligencia emocional es la demostración de las buenas habilidades de liderazgo de líderes que están en control de sí mismos, automotivados, empáticos y cuentan con grandes habilidades sociales.
+
+Los mejores líderes son aquellos que poseen un alto grado de inteligencia emocional. Dado que la inteligencia emocional es una parte de las habilidades del liderazgo, estos líderes inspiran y conducen a aquellos que están a su alrededor.
+
+Una vez que conocemos nuestras emociones y además hemos aprendido a gestionarlas de formas eficaz podemos empezar a practicar el empatizar con los demás y gestionar nuestra relación con ellos de la forma más eficiente.
+
 ## El perfil de un equipo emocionalmente inteligente
 
 Expertos en inteligencia emocional en las organizaciones, señalan en un análisis detallado que existen tres aspectos clave del 
