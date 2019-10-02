@@ -1,91 +1,53 @@
 # Liderazgo_inteligencia-emocional
-Resumen del curso de Liderazgo con inteligencia emocional (Semana 1)
 
-*Para tener un equipo de trabajo necesitamos que todas los integrantes sean capaces de colaborar en dicho ambiente para eso
-se necesita de la inteligencia emocional*
+Los buenos líderes se reconocen porque escuchan a los suyos y son comunicativos y porque se informan antes de tomar decisiones, valorando seriamente sus posible repercusiones. Así, la inteligencia emocional juega un papel fundamental en liderazgo. 
+
+*Para tener un gran equipo de trabajo necesitamos que todas los integrantes sean capaces de colaborar en dicho ambiente para eso es necesrio la inteligencia emocional* para ello detallaremos los siguientes temas:
 
 ## ¿Qué es inteligencia emocional?
 
-Es la capacidad de una persona para identificar y controlar sus emociones adecuadamente. La inteligencia emocional ha sido 
-estudiada desde la década de 1990, sin embargo en esos tiempo era más importante el cociente intelectual, lo que quiere decir 
-que importaba más que tan inteligentes somos. A pesar de eso en la actualidad está tomando fuerza el que tan 
-sociables somos.
+Es la capacidad de una persona para identificar y controlar sus emociones adecuadamente. La inteligencia emocional ha sido estudiada desde la década de 1990, sin embargo en esos tiempo era más importante el cociente intelectual, lo que quiere decir que importaba más que tan inteligentes somos. A pesar de eso en la actualidad está tomando fuerza el que tan sociables somos.
 
-*En otras palabras, el dicho “No es algo personal, son estrictamente negocios”, ya no funciona debido a que los estudios muestran 
-que la participación e innovación verdaderas son el resultado de una inversión personal en la tarea en cuestión.
+Los buenos líderes son aquellos que nunca pierden el control, que se enfrentan a sus retos dejando a un lado sus problemas personales y confían plenamente en sí mismos. Demuestran su inteligencia emocional en el liderazgo.
+
+*En otras palabras, el dicho “No es algo personal, son estrictamente negocios”, ya no funciona debido a que los estudios muestran que la participación e innovación verdaderas son el resultado de una inversión personal en la tarea en cuestión.
 
 La inteligencia emocional es la demostración de las buenas habilidades de liderazgo de líderes que están en control de sí mismos, automotivados, empáticos y cuentan con grandes habilidades sociales.
 
-Los mejores líderes son aquellos que poseen un alto grado de inteligencia emocional. Dado que la inteligencia emocional es una parte de las habilidades del liderazgo, estos líderes inspiran y conducen a aquellos que están a su alrededor.
+## ¿Cómo mejorar la conciencia de uno mismo?
 
-Una vez que conocemos nuestras emociones y además hemos aprendido a gestionarlas de formas eficaz podemos empezar a practicar el empatizar con los demás y gestionar nuestra relación con ellos de la forma más eficiente.
+Manteniendo un diario que ayuda a mejorar la autoconciencia. Si empleas unos pocos minutos cada día para escribir tus pensamientos tendrás a un mayor grado de conciencia de ti mismo.
+Reduciendo la velocidad en momentos de ira u otras emociones fuertes para examinar por qué. No importa la situación, siempre se puede elegir cómo reaccionar ante ella.
+
 
 ## El perfil de un equipo emocionalmente inteligente
 
-Expertos en inteligencia emocional en las organizaciones, señalan en un análisis detallado que existen tres aspectos clave del 
-equipo que indican la IE interpersonal saludable en un equipo:
+Expertos en inteligencia emocional en las organizaciones, señalan en un análisis detallado que existen tres aspectos clave del equipo que indican la IE interpersonal saludable en un equipo:
 
-1.Confianza entre sus miembros
-2.Un sentido de identidad del grupo
-3.Un sentido de eficiencia del grupo
+1. Confianza entre sus miembros
+2. Un sentido de identidad del grupo
+3. Un sentido de eficiencia del grupo
 
-A pesar de ello un equipo de trabajo puede funcionar sin estos tres aspectos, no obstante quizás los miembros no estén de acuerdo 
-con todo lo que sucede en la empresa y esto se debe a que no se sienten "emocionalmente" atraídos a los proyectos.
+Según Daniel Goleman, psicólogo estadounidense que ayudó a popularizar la IE, hay cinco elementos principales de la inteligencia emocional en el liderazgo:
 
-## ¿Cómo normalizar la IE del grupo?
+* Conciencia de sí mismo.
+* La autorregulación.
+* Motivación.
+* Empatía.
+* Las habilidades sociales.
 
-La Dra. Druskat y el Dr. Wolff sobre la inteligencia emocional en las empresas aseguran que en cuanto conviertan este inventario de
-normas en hábitos entre los miembros del equipo, establecerán patrones de comportamiento aceptados mutuamente que fomentarán la confianza,
-comprensión y el apoyo, para ello tienen que desarrollar normas sociales.
+## ¿Cómo se traduce a nivel laboral un buen liderazgo?
+Goleman también abordó ciertos factores a través de los cuales podemos hacernos una idea sobre si existe un buen liderazgo dentro de una empresa:
 
-### ¿Qué son las normas sociales?
+- Libertad. El sentimiento o percepción de libertad que tienen los trabajadores para aportar ideas e innovar. Si el trabajador se siente escuchado se sentirá valorado. Si se siente escuchado y valorado, es una señal de que se está ante un buen líder.
+- Responsabilidad. El grado de responsabilidad que siente un trabajador en su puesto de trabajo. Si se trata de un bien líder, hará que todos se sientan responsables y valiosos en sus puestos de trabajo.
+- Calidad de trabajo. El nivel de la calidad del trabajo que llevan a cabo los trabajadores es también un indicador sobre la calidad del líder.
+- Compensaciones. Si normalmente reciben compensaciones por el rendimiento y/o cómo se perciben esas recompensas. ¿Sienten los trabajadores que se valora su trabajo? ¿Sienten que está recompensado?
+- La compañía. Nivel de claridad sobre la misión y los valores de la compañía.
+- Compromiso. Nivel de compromiso que tienen los trabajadores hacia un objetivo común.
 
-Son reglas no escritas que son aceptadas colectivamente como el comportamiento esperado en un contexto grupal.
+## Conclusiones
+Para ser eficaces, los líderes deben tener una comprensión sólida de cómo sus emociones y cómo sus acciones afectan a las personas de su entorno. El mejor líder se relaciona y trabaja con los demás. Tómate tu tiempo para trabajar en la autoconciencia, autorregulación, motivación, empatía y habilidades sociales.
 
-## Comprensión interpersonal
-
-La necesidad de considerar cada perspectiva individual al tomar decisiones grupales puede parecer obvia, pero no es suficiente con 
-simplemente preguntar “¿Qué piensan todos?”, en un contexto grupal.
-
-## Confronten a los miembros que infrinjan las normas
-
-No necesitan sentirse mal por infringir una norma, pero estar alerta para llamar la atención y corregir el error sin hacer juicios de valor 
-convierten a la comodidad y la seguridad del equipo en prioridades principales.
-
-## Hacer una autoevaluación del equipo
-
-La evaluación es para mejorar su equipo. Tengan en cuenta este objetivo (junto con las normas de comprensión interpersonal,la conducta solidaria 
-y la confrontación adecuada) cuando expresen quejas o soliciten cambio de procesos.
-
-## Elaborar recursos para trabajar con emoción
-
-Construir, no acumular. Sacar las emociones del equipo al aire libre, de una manera saludable y no tan formal.
-
-## Generen un entorno positivo
-
-Tener una personalidad alegre no significa que tengan que interpretar un musical. Solo quiere decir que su equipo opera desde un lugar de positividad
-todas las veces que sea posible.
-
-## Resolver problemas de forma proactiva
-
-Muchas manos hacen el trabajo más liviano. La resolución proactiva de problemas como un equipo significa que nadie trabaja de manera aislada 
-y que nadie está inactivo cuando algo necesita atención.
-
-## Actuar con cuidado
-
-Apoyarse entre todos. ¡Todos! Digan por favor y gracias, dediquen un tiempo para establecer un interés genuino en el bienestar del otro. 
-No están obligados a ser los mejores amigos, pero sí excelentes compañeros de equipo.
-
-## Entender (realmente) a su organización
-
-No convertirse en el grupo elitista del comedor. Mantengan al equipo abierto a las perspectivas y experiencias de otros equipos e individuos de su empresa.
-
-## Construir relaciones externas
-
-Buscar capacitar a otros con la experiencia de su equipo e inviten a la curiosidad con el acercamiento activo.
-
-
-*El desarrollo de la IE es un compromiso continuo con el bienestar y la productividad de su equipo, pero no tiene que ser
-complicado. La confianza, la comprensión y el respaldo están hechos de las cosas pequeñas y cotidianas que hacen que un 
-grupo de personas se convierta en un equipo.
-
+«El liderazgo no es sinónimo de dominación, sino el arte de convencer a la gente de que colabore para alcanzar un objetivo común».
+<Daniel Goleman> 
